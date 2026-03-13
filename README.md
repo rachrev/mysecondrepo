@@ -1,0 +1,1 @@
+README.md is created to check the commit from VS code without using the terminal 
